@@ -1,0 +1,26 @@
+@charset "utf-8";
+#header {
+	background-image: url(images/header.png);
+	height: 49px;
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainL {
+	float: left;
+	width: 173px;
+	margin-right: 7px;
+	margin-left: 23px;
+}
+#mainR {
+	width: 537px;
+	margin-left: 203px;
+}
+#banner {
+	margin-bottom: 5px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
